@@ -33,3 +33,10 @@ wordcloud==1.8.2.2
 ## ✒️ Contato
 
 [Reginaldo Santos](http://lattes.cnpq.br/9157422386900321) - [regicsf2010@gmail.com](regicsf2010@gmail.com)
+
+
+## 🙏 Doação
+
+Se esse projeto lhe foi útil, contribua:
+
+* Chave pix: c3b63d33-316f-422e-928a-7dd421a0f1b9
