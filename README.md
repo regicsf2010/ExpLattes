@@ -40,3 +40,5 @@ wordcloud==1.8.2.2
 Se esse projeto lhe foi útil, contribua:
 
 * Chave pix: c3b63d33-316f-422e-928a-7dd421a0f1b9
+
+![Pix key](https://github.com/regicsf2010/ExpLattes/blob/main/key.png?raw=true)
